@@ -31,7 +31,6 @@ function Header() {
                 <VideoCallIcon className="header-icon" />
                 <AppsIcon className="header-icon"/>
                 <NotificationsIcon className="header-icon"/>
-                <img class="header-avatar" src="https://media-exp1.licdn.com/dms/image/D4E35AQH016P7TfZ7_A/profile-framedphoto-shrink_400_400/0/1630352114599?e=1638079200&v=beta&t=BJjN1B93VqFoKzmXxe592dTzyBKPsVK8n6Dfr6M2uXY"
             </div>
            
             
