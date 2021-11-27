@@ -31,8 +31,7 @@ function Header() {
                 <VideoCallIcon className="header-icon" />
                 <AppsIcon className="header-icon"/>
                 <NotificationsIcon className="header-icon"/>
-                <img class="header-avatar" src="https://scontent-del1-1.xx.fbcdn.net/v/t1.6435-1/p320x320/241013356_3124608901104938_4841102880698831209_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=7206a8&_nc_ohc=Uqev8YdNKzYAX-OWHD1&_nc_ht=scontent-del1-1.xx&oh=ac943ad4140b54cfa18a334021d09472&oe=617AC101" alt="avatar"/>
-
+                <img class="header-avatar" src="https://media-exp1.licdn.com/dms/image/D4E35AQH016P7TfZ7_A/profile-framedphoto-shrink_400_400/0/1630352114599?e=1638079200&v=beta&t=BJjN1B93VqFoKzmXxe592dTzyBKPsVK8n6Dfr6M2uXY"
             </div>
            
             
